@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Wang"
+    given-names: "Yuan"
+    affiliation: "College of Chemical Engineering, Qinghai University"
+  - family-names: "Chen"
+    given-names: "Mengyue"
+    affiliation: "College of Chemical Engineering, Qinghai University"
+  - family-names: "Tian"
+    given-names: "Jingwei"
+    affiliation: "College of Chemical Engineering, Qinghai University"
+  - family-names: "Zhang"
+    given-names: "Weidong"
+    affiliation: "College of Chemical Engineering, Qinghai University"
+    email: "weidzhang1208@126.com"
+  - family-names: "Liu"
+    given-names: "Dahuan"
+    affiliation: "College of Chemical Engineering, Qinghai University"
+    email: "liudh@mail.buct.edu.cn"
+title: "A Data-Driven Predictive Model for Solubility: A Case Study of the NaCl-Na₂SO₄-H₂O System"
+version: 1.0.0
+date-released: "2025-04-03"
+url: "https://github.com/username/NaCl-Na2SO4-H2O-Solubility-Prediction"
+repository-code: "https://github.com/username/NaCl-Na2SO4-H2O-Solubility-Prediction"
+license: MIT
+keywords:
+  - "solubility prediction"
+  - "deep learning"
+  - "anomaly detection"
+  - "salt-water system"
+  - "WLOF"
+  - "DENS"
+  - "Bayesian optimization"
+  - "ensemble neural network"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Wang"
+      given-names: "Yuan"
+      affiliation: "College of Chemical Engineering, Qinghai University"
+    - family-names: "Chen"
+      given-names: "Mengyue"
+      affiliation: "College of Chemical Engineering, Qinghai University"
+    - family-names: "Tian"
+      given-names: "Jingwei"
+      affiliation: "College of Chemical Engineering, Qinghai University"
+    - family-names: "Zhang"
+      given-names: "Weidong"
+      affiliation: "College of Chemical Engineering, Qinghai University"
+    - family-names: "Liu"
+      given-names: "Dahuan"
+      affiliation: "College of Chemical Engineering, Qinghai University"
+  title: "A Data-Driven Predictive Model for Solubility: A Case Study of the NaCl-Na₂SO₄-H₂O System"
+  journal: "[Journal Name]"  # Update after publication
+  year: 2025
+  volume: ""  # Update after publication
+  issue: ""  # Update after publication
+  start: ""  # Update after publication
+  end: ""  # Update after publication
+  doi: "[DOI]"  # Update after publication
